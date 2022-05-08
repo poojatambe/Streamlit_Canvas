@@ -21,6 +21,7 @@ streamlit run streamlit_canvas.py
 
 **Result**
 
+![](https://github.com/poojatambe/Streamlit_Canvas/blob/main/canvas.gif)
 
 **Reference**
 
